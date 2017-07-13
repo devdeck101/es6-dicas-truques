@@ -1,0 +1,28 @@
+{
+  "name": "es6-dicas-truques",
+  "version": "1.0.0",
+  "description": "ES6 Dicas e Truques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdeck101/es6-dicas-truques.git"
+  },
+  "keywords": [
+    "ES6",
+    "dica",
+    "truques",
+    "arrow",
+    "function",
+    "spread",
+    "deconstruction"
+  ],
+  "author": "Developer Deck 101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdeck101/es6-dicas-truques/issues"
+  },
+  "homepage": "https://github.com/devdeck101/es6-dicas-truques#readme"
+}
